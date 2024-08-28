@@ -6,8 +6,6 @@ Este é um aplicativo de gerenciamento de biblioteca desenvolvido em Python util
 
 ## Diagrama UML
 
-![Diagrama UML](link-para-diagrama)
-
 *Você pode criar e hospedar o diagrama UML do seu sistema e substituir "link-para-diagrama" pelo link para o diagrama.*
 
 ## Documentação das Classes e Métodos
